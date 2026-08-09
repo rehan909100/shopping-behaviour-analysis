@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # 🛍️ Shopping Behaviour Analysis
 
 <p align="center">
